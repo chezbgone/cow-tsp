@@ -1,0 +1,5 @@
+.env
+
+distances.npy
+
+__pycache__/
